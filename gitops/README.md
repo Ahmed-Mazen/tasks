@@ -4,7 +4,7 @@
 - maybe on premises
 - jenkins
 	- plugins
-		- 
+		- git
 - Kubernetes
 	- build an image to run 
 	- add a frontend group 
@@ -12,6 +12,11 @@
 	- add a database group
 	- create NodePort service for the group
 	- create the deployment and put the image on it
+- ansible
+	- inventory
+	- ansible config
+	- playbooks
+		- start a docker container
 - 
 ## must have later
 - automation for docker files 
