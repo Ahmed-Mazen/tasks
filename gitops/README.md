@@ -17,3 +17,4 @@
 - automation for docker files 
 ## nice to have 
 - forecast data for the sensors
+- make a helm chart for the kubernetes task
