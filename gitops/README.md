@@ -10,7 +10,7 @@
 	- add a frontend group 
 	- add a backend group
 	- add a database group
-	- create the service for the group
+	- create NodePort service for the group
 	- create the deployment and put the image on it
 - 
 ## must have later
