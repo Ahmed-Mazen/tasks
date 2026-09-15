@@ -1,6 +1,7 @@
 # Web app tasks
 
 ## must have
+- [ ] make sure it is touch screen friendly
 - [ ] homescreen
 	- [ ] 3 columns at a row
 	- [ ] visual indicator like a logo at the top to tell what this is
