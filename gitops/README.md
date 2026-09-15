@@ -1,7 +1,7 @@
 # gitops tasks
 
 ## must have now
-- [x] maybe on premises - @Ahmed-Mazen
+- [ ] maybe on premises
 - [ ] jenkins
 	- [ ] plugins
 		- [ ] git
