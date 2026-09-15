@@ -16,7 +16,7 @@
 	- create NodePort service for the group
 	- create the deployment and put the image on it
 	- one cluster with nameapaces
-- ansible
+- [ ] ansible
 	- inventory
 	- ansible config
 	- playbooks

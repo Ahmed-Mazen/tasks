@@ -16,7 +16,3 @@
 - 3D model
 - clickable dashboards that view more information in a popup
 - 
-### technologies 
-- fastapi
-- python
-- 

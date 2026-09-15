@@ -5,4 +5,4 @@
 	- setup config file for it
 - git branch
 - docker file
-- 
+- live server
