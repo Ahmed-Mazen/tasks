@@ -26,7 +26,7 @@
 - [ ] terraform
 	- [ ] provision one EC2 instance with K3s
 	- [ ] provision one EC2 instance with ansible master node
-	- [ ] provision onw EC2 instance with worker node kubernetes
+	- [ ] provision one EC2 instance with worker node kubernetes
 - [ ] prometheus
 - [ ] grafana
 - [ ] implement Open Policy agent
