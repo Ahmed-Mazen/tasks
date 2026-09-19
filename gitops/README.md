@@ -6,6 +6,9 @@
 	- [ ] plugins
 		- [ ] git
 	- [ ] webhook for github
+    - [ ] pipeline for main branch
+    - [ ] build Dockerfile
+    - [ ] make sure no keys leaked
 - [ ] docker
 	- [ ] image based on [pyhton:3-alpine-dev](https://hub.docker.com/hardened-images/catalog/dhi/python/images/python%2Falpine-3.24%2F3.14-dev/sha256-45354012e0480baedfe84c1f0d3d10a692f4f8efd136e03ddd576d3c63a4637d)
 - [ ] Kubernetes
@@ -28,7 +31,10 @@
 	- [ ] provision one EC2 instance with ansible master node
 	- [ ] provision one EC2 instance with worker node kubernetes
 - [ ] prometheus
+    - [ ] scrape k3s metrics
 - [ ] grafana
+    - [ ] CPU dashboard
+    - [ ] live sensor data
 - [ ] implement Open Policy agent
 - [ ] build a MQTT server
 ## must have later
