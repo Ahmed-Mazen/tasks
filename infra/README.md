@@ -17,7 +17,7 @@
         - [ ] wires insert
         - [ ] camera insert
     - [ ] a board for the raspberry pi
-        - [ ] connection to the rest of the boards 
+        - [ ] connection to the rest of the boards
 - [ ] raspberry pi programming
     - [ ] recieve data from the ESPs to the pi
     - [ ] send data for humdity
@@ -26,3 +26,5 @@
     - [ ] send data for dust 
     - [ ] send camera fotage
     - [ ] recieve signals to change LED colors
+## nice to have
+- [ ] an OLED screen to show IP stats and more
