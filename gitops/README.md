@@ -25,11 +25,6 @@
 	- [ ] playbooks
 		- [ ] restart the docker container
 - [ ] implement SonarQube SAST
-- [ ] build an image registery
-- [ ] terraform
-	- [ ] provision one EC2 instance with K3s
-	- [ ] provision one EC2 instance with ansible master node
-	- [ ] provision one EC2 instance with worker node kubernetes
 - [ ] prometheus
     - [ ] scrape k3s metrics
 - [ ] grafana
@@ -43,3 +38,4 @@
 - [ ] forecast data for the sensors
 - [ ] make a helm chart for the kubernetes task
 - [ ] AgroCD
+- [ ] build an image registery
