@@ -1,0 +1,4 @@
+- [ ] terraform
+	- [ ] provision one EC2 instance with K3s
+	- [ ] provision one EC2 instance with ansible master node
+	- [ ] provision one EC2 instance with worker node kubernetes
